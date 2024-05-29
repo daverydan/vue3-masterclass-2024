@@ -1,4 +1,6 @@
-# vue3-masterclass-2024
+# Vue 3 Master Class 2024
+
+[Vue.js Master Class 2024 Edition](https://vueschool.io/courses/the-vuejs-3-master-class)
 
 This template should help get you started developing with Vue 3 in Vite.
 
